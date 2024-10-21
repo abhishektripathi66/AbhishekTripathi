@@ -7,14 +7,18 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=15&duration=7000&pause=1000&width=435&lines=Tech+Explorer💡%2C+Software+Engineer🧑‍💻+%26+Programmer🤖;Loves+to+solve+technology+problems+by+code📝;Likes+to+build+scalable🚀%2C+secure🔐+applications📱)](https://git.io/typing-svg)
 
 </p>
-<h5 align="center">I’m a Final year student currently pursuing Bachelor’s in Information Technology studies from MAKAUT (WB). Coding , Learner, Web Dev Enthusiast. 
+<h5 align="center">I’m a Software Engineer 
 </h5>
   
 [![Matrix SVG](https://github.com/Sar-taj107/Sar-taj107/blob/main/matrix.svg)](#)
-## 🌱 Currently learning ...
+## 🌱 Experienced in ...
 - java
 - spring
 - springboot
+- Angular
+- Node.Js
+- Docker
+- Kubernetes
 
 ##
 [![An image of @sartaj107's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sartaj107)](https://holopin.io/@sartaj107)
