@@ -1,29 +1,11 @@
 
-
-<!---
-Sar-taj107/Sar-taj107 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-- 👋 Hi, I’m @Sar-taj107
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning C, C++ & Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sar-taj107&theme=radical)
-## 🌱 I’m currently learning ...
-
---->
-
-<h1 align="center">Hi <img style="display: inline-block" src="https://github.com/Sar-taj107/Sar-taj107/blob/main/Assets/wave.gif" height="40px" /> I'm Md Tajuddin</h1>
+<h1 align="center">Hi <img style="display: inline-block" src="https://github.com/Sar-taj107/Sar-taj107/blob/main/Assets/wave.gif" height="40px" /> I'm Abhishek Tripathi</h1>
 <h5 align="center">
 <p align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Welcome+to+my+Github+Account✨)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=15&duration=7000&pause=1000&width=435&lines=Tech+Explorer💡%2C+Software+Engineer🧑‍💻+%26+Programmer🤖;Loves+to+solve+technology+problems+by+code📝;Likes+to+build+scalable🚀%2C+secure🔐+applications📱)](https://git.io/typing-svg)
- <!--- comment
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Welcome+to+my+Github+Account.)](https://git.io/typing-svg)
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Tech%20Enthusiast!;Self%20taught%20Java%20Learner!%20&%20Programmer&center=true&width=500&height=50">
-  --->
+
 </p>
 <h5 align="center">I’m a Final year student currently pursuing Bachelor’s in Information Technology studies from MAKAUT (WB). Coding , Learner, Web Dev Enthusiast. 
 </h5>
