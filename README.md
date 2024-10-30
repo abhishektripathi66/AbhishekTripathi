@@ -25,13 +25,13 @@
 <br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishektripathi66&label=Profile%20views&color=0e75b6&style=flat" alt="Sar-taj107" /> </p>
 <p>
-<a align= "center" href="https://github.com/Sar-taj107">
-<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Sar-taj107&theme=radical">
+<a align= "center" href="https://github.com/abhishektripathi66">
+<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishektripathi66&theme=radical">
 <img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
 </p>
-<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=Sar-taj107&count_private=true&theme=radical&show_icons=true" />
+<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=abhishektripathi66&count_private=true&theme=radical&show_icons=true" />
 
-<p align="left"> <a href="https://twitter.com/_tajuddin_" target="blank"><img src="https://img.shields.io/twitter/follow/_tajuddin_?logo=twitter&style=for-the-badge" alt="_tajuddin_" /></a> </p>
+<p align="left"> <a href="https://x.com/abhitripathi66" target="blank"><img src="https://img.shields.io/twitter/follow/abhitripathi66?logo=twitter&style=for-the-badge" alt="abhitripathi66" /></a> </p>
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif) 
 <br><br>
