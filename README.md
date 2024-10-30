@@ -21,9 +21,9 @@
 - Kubernetes
 
 ##
-[!An image of @abhishektripathi66's Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.io/@abhishektripathi66#badges).
+[![An image of @sartaj107's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhishektripathi66)](https://holopin.io/@abhishektripathi66)
 <br><br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishektripathi66&label=Profile%20views&color=0e75b6&style=flat" alt="Sar-taj107" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishektripathi66&label=Profile%20views&color=0e75b6&style=flat" alt="abhishektripathi66" /> </p>
 <p>
 <a align= "center" href="https://github.com/abhishektripathi66">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishektripathi66&theme=radical">
