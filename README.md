@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi <img style="display: inline-block" src="https://github.com/Sar-taj107/Sar-taj107/blob/main/Assets/wave.gif" height="40px" /> I'm Abhishek Tripathi</h1>
+<h1 align="center">Hi <img style="display: inline-block" src="https://github.com/abhishektripathi66/AbhishekTripathi/blob/main/Assets/wave.gif" height="40px" /> I'm Abhishek Tripathi</h1>
 <h5 align="center">
 <p align="center">
 
@@ -52,8 +52,8 @@
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/nolan/96/github.png"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/ios-glyphs/90/000000/html-5.png"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/nolan/96/git.png"/> </a>     
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/user-attachments/assets/e8972b31-7d88-43f2-bdd1-1d2315102f82"/> </a> 
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://icons8.com/icon/2oBx9FpXcbLa/spring-boot"/> </a> 
+  <a href="https://angular.dev/" target="_blank"> <img src="https://github.com/user-attachments/assets/e8972b31-7d88-43f2-bdd1-1d2315102f82"/> </a> 
+  <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://github.com/user-attachments/assets/84f86821-ea08-458b-8c2f-a35fdf3e5a37"/> </a> 
 </p>
 
 ## ⚡ Tech Stack 
