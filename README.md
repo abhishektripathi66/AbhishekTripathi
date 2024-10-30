@@ -23,7 +23,7 @@
 ##
 [!An image of @abhishektripathi66's Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.io/@abhishektripathi66#badges).
 <br><br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sar-taj107&label=Profile%20views&color=0e75b6&style=flat" alt="Sar-taj107" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishektripathi66&label=Profile%20views&color=0e75b6&style=flat" alt="Sar-taj107" /> </p>
 <p>
 <a align= "center" href="https://github.com/Sar-taj107">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Sar-taj107&theme=radical">
