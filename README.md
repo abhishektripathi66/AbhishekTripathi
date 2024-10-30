@@ -52,8 +52,7 @@
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/nolan/96/github.png"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/ios-glyphs/90/000000/html-5.png"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/nolan/96/git.png"/> </a>     
-  <a href="https://git-scm.com/" target="_blank"> <img src="![image](https://github.com/user-attachments/assets/e8972b31-7d88-43f2-bdd1-1d2315102f82)
-"/> </a> 
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/user-attachments/assets/e8972b31-7d88-43f2-bdd1-1d2315102f82"/> </a> 
   <a href="https://git-scm.com/" target="_blank"> <img src="https://icons8.com/icon/2oBx9FpXcbLa/spring-boot"/> </a> 
 </p>
 
