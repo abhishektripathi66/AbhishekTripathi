@@ -10,7 +10,7 @@
 <h5 align="center">I’m a Software Engineer 
 </h5>
   
-[![Matrix SVG](https://github.com/Sar-taj107/Sar-taj107/blob/main/matrix.svg)](#)
+[![Matrix SVG](https://github.com/abhishektripathi66/AbhishekTripathi/blob/main/matrix.svg)(#)
 ## 🌱 Experienced in ...
 - java
 - spring
@@ -21,7 +21,7 @@
 - Kubernetes
 
 ##
-[![An image of @abhishektripathi66's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/@abhishektripathi66#badges)](https://www.holopin.io/@abhishektripathi66#badges)
+[!An image of @abhishektripathi66's Holopin badges, which is a link to view their full Holopin profile]([https://holopin.me/@abhishektripathi66#badges](https://www.holopin.io/@abhishektripathi66#badges)).
 <br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sar-taj107&label=Profile%20views&color=0e75b6&style=flat" alt="Sar-taj107" /> </p>
 <p>
