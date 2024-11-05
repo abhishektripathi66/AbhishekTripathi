@@ -49,7 +49,7 @@
 🚀 Languages and Tools:
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png"/> </a>
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/nolan/96/github.png"/> </a>
+    <a href="https://github.com/abhishektripathi66" target="_blank"> <img src="https://img.icons8.com/nolan/96/github.png"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/ios-glyphs/90/000000/html-5.png"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/nolan/96/git.png"/> </a>     
   <a href="https://angular.dev/" target="_blank"> <img src="https://github.com/user-attachments/assets/e8972b31-7d88-43f2-bdd1-1d2315102f82"/> </a> 
