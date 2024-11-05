@@ -83,11 +83,11 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Docker](https://github.com/user-attachments/assets/8ee59546-905c-4dfb-82de-5c5c6535e7ea)
+![Docker](https://img.shields.io/badge/Docker-0074D5?style=for-the-badge&logo=Docker&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-![Kubernetes](https://github.com/user-attachments/assets/8cc28ecd-37ab-43d6-a1d0-0020c1351341)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0074D5?style=for-the-badge&logo=Kubernetes&logoColor=white)
 
 
 ### 🗃️ Database
